@@ -1,6 +1,5 @@
 ## Coé, eu me chamo Cleiton Do Carmo 👋
 
-
 ### Saiba um pouco sobre mim:
 
 - 👨🏻‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo IFBaiano.
