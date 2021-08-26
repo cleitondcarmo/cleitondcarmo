@@ -24,9 +24,3 @@
     <img src="(https://user-images.githubusercontent.com/81137205/130878874-63a93733-6b62-4a51-baaf-9b52c6eb3a1e.png"  style="max-width:100%;">
     </a>
 </div>
-<style>
-    div.box{
-        width:16px;
-        display: inline-block;
-    }
-</style>
