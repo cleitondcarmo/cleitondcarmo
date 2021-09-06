@@ -2,7 +2,7 @@
 
 ### Saiba um pouco sobre mim:
 
-- 👨🏻‍🎓 Atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo IFBaiano.
+- 👨🏻‍🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo IFBaiano.
 - 📚 Pretendo fazer Pós-graduação e outras graduações depois de me formar em ADS.
 - 🏠 Nasci em São Bernardo - SP, mas atualmente moro em Urandi - BA.
 - 👦🏻 Tenho 26 anos.
