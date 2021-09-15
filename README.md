@@ -7,7 +7,7 @@
 - 🏠 Nasci em São Bernardo - SP, mas atualmente moro em Urandi - BA.
 - 👦🏻 Tenho 26 anos.
 - 🎮 Gosto principalmente de jogos de RPG.
-- 👨🏻‍💻 Conhecimento nas linguagens: Java, C, PHP, SQL e Python, sendo a última a minha preferida.
+- 👨🏻‍💻 Conhecimento nas linguagens: Java, JavaScript, C, PHP, SQL e Python, sendo a última a minha preferida.
 - 📧 cleitondcarmo@hotmail.com
 
 ### Me acompanhe aqui também:
