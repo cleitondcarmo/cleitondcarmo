@@ -18,7 +18,4 @@
     <a href="https://www.linkedin.com/in/cleitondcarmo/" target="_blank" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/81137205/130878693-3ab62b1f-bee6-458d-bea5-5e1e8f7dad78.png"  style="max-width:100%;">
     </a>
-    <a href="https://www.facebook.com/kleiton.aparecido.9/" target="_blank" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/81137205/130878874-63a93733-6b62-4a51-baaf-9b52c6eb3a1e.png"  style="max-width:100%;">
-    </a>
 </div>
