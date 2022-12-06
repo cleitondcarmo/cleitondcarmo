@@ -1,4 +1,4 @@
-## Coé, eu me chamo Cleiton Do Carmo 👋
+## Opa, eu me chamo Cleiton Do Carmo 👋
 
 ### Saiba um pouco sobre mim:
 
