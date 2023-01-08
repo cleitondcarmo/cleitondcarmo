@@ -19,6 +19,6 @@
         <img src="https://user-images.githubusercontent.com/81137205/130878693-3ab62b1f-bee6-458d-bea5-5e1e8f7dad78.png"  style="max-width:100%;">
     </a>
     <a href="https://cleitondcarmo.github.io" target="_blank" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/81137205/211179305-e2d35122-c770-49c8-a9b4-befd5948a674.png"  style="max-width:100%;">
+        <img src="https://user-images.githubusercontent.com/81137205/211179366-7a9164d3-3d72-4857-b2a0-886e07ce9c91.png"  style="max-width:100%;">
     </a>
 </div>
