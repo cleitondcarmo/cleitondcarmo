@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/cleitondcarmo/" target="_blank" rel="nofollow">
         <img src="https://user-images.githubusercontent.com/81137205/130878693-3ab62b1f-bee6-458d-bea5-5e1e8f7dad78.png"  style="max-width:100%;">
     </a>
-    <a href="https://www.linkedin.com/in/cleitondcarmo/" target="_blank" rel="nofollow">
-        <img src="https://user-images.githubusercontent.com/81137205/211178991-b3d20677-e2ab-4da0-96af-b142231a1c44.jpg"  style="max-width:100%;">
+    <a href="https://cleitondcarmo.github.io" target="_blank" rel="nofollow">
+        <img src="https://user-images.githubusercontent.com/81137205/211178991-b3d20677-e2ab-4da0-96af-b142231a1c44.jpg"  style="width:16px; height: 16px">
     </a>
 </div>
