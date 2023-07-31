@@ -2,10 +2,9 @@
 
 ### Saiba um pouco sobre mim:
 
-- 👨🏻‍🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo IFBaiano.
-- 🏠 Nasci em São Bernardo - SP, mas atualmente moro em Urandi - BA.
-- 👦🏻 Tenho 27 anos.
-- 🎮 Gosto principalmente de jogos de RPG.
+- 👨🏻‍🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo IF Baiano.
+- 🏠 Nasci em São Bernardo - SP, mas atualmente moro em São José Do Rio Preto - SP.
+- 👦🏻 Tenho 28 anos.
 - 👨🏻‍💻 Conhecimento nas linguagens: Java, JavaScript, C, PHP, SQL e Python.
 - 📧 cleitondcarmo@hotmail.com
 
