@@ -4,8 +4,9 @@
 
 - 👨🏻‍🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas pelo IF Baiano.
 - 🏠 Nasci em São Bernardo - SP, mas atualmente moro em São José Do Rio Preto - SP.
-- 👦🏻 Tenho 28 anos.
-- 👨🏻‍💻 Conhecimento nas linguagens: Java, JavaScript, C, PHP, SQL e Python.
+- 👦🏻 Nasci em 28/06/1995.
+- 👨🏻‍💻 Conhecimento: HTML, CSS, C, Java, PHP, Jest, Node, SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase).
+- 👨🏻‍💻 Experiência: Javascript (React, Vue), Github, Docker, Figma, Jira
 - 📧 cleitondcarmo@hotmail.com
 
 ### Me acompanhe aqui também:
