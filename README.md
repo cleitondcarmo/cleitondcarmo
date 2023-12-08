@@ -6,7 +6,7 @@
 - 🏠 Nasci em São Bernardo - SP, mas atualmente moro em São José Do Rio Preto - SP.
 - 👦🏻 Nasci em 28/06/1995.
 - 👨🏻‍💻 Conhecimento: HTML, CSS, C, Java, PHP, Jest, Node, SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Firebase).
-- 👨🏻‍💻 Experiência: Javascript (React, Vue), Github, Docker, Figma, Jira
+- 👨🏻‍💻 Experiência: Javascript (React, Vue), Github, Docker, Figma, Jira.
 - 📧 cleitondcarmo@hotmail.com
 
 ### Me acompanhe aqui também:
